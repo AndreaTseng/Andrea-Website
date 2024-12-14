@@ -112,7 +112,7 @@ defaults:
       type: pages
     values:
       permalink: /
-      layout: default
+      layout: single
 
 category_archive:
   type: liquid
