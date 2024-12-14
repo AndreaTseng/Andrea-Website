@@ -106,6 +106,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # Specific rule for home.html
+  - scope:
+      path: "_pages/home.html"
+      type: pages
+    values:
+      permalink: /
+      layout: home
 
 category_archive:
   type: liquid
