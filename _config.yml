@@ -59,7 +59,7 @@ plugins:
 
 author:
   name: "Hung Yun (Andrea) Tseng"
-  avatar: "/_data/profile_photo.jpg"
+  avatar: "/assets/images/profile_photo.jpg"
   bio: "Undergraduate at the University of Wisconsin - Madison"
   links:
     - label: "Website"
