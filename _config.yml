@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: "Hung Yun (Andrea) Tseng"
+  avatar: "/_data/profile_photo.jpg"
+  bio: "Undergraduate at the University of Wisconsin - Madison"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
